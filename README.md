@@ -1,4 +1,7 @@
 # GoBridge monthly newsletter
+## Signup
+Signup here if you haven't yet: http://newsletter.golangbridge.org/h/i/024ABEE84D511292
+
 ## Ways to get in touch
 Use this to share yours or others' projects, news, blog posts of interest, or feedback. Please see past newsletters to get an idea of what type of content is a good fit.
 
