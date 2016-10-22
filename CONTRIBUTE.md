@@ -48,13 +48,13 @@ We want this Go Pulse to distinctly have a voice behind each newsletter. When we
 
 ## Contribution Workflow
 
-#### 1. Submit a Gissue 
-Please submit a gissue with the title of the section you would like to contribute to along with a quick summary of your intended contribution. 
+#### 1. Submit an Issue 
+Please submit a issue with the title of the section you would like to contribute to along with a quick summary of your intended contribution. 
 
-***DO NOT*** sling a PR without submitting a gissue. Gissues help us direct your content to the appropriate month, prevents wasted effort, and consolidates similar PRs. 
+***DO NOT*** sling a PR without submitting a issue. Issues help us direct your content to the appropriate month, prevents wasted effort, and consolidates similar PRs. 
 
 #### 2. Make a PR
-Make a PR with your content ***after*** we indicate the appropriate month and section in your gissue. 
+Make a PR with your content ***after*** we indicate the appropriate month and section in your issue. 
 
 #### 3. Congratulations!
 You'll see your contribution in our Go Pulse newsletter on https://blog.golangbridge.org/ in the upcoming month.
