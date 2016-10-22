@@ -1,28 +1,28 @@
-# Go Pulse
-What is it? 
-Go Pulse is a monthly newsletter curated with love by the GoBridge org and released at the top of each month.
+# Go Pulse Newsletter
 
-Why is it named Go Pulse? 
-Good question. We want a newsletter with a bit of heart, written by gophers for gophers, that shares things that either deserve attention or things that people already care about.
+**What is it?** 
+
+Go Pulse Newsletter is a monthly newsletter curated *with love* by the [GoBridge org](https://golangbridge.org/) and released at the top of each month. 
+
+**Another newsletter? Why should I read this?**
+
+Good question! We wanted a newsletter with a bit of heart, curated and written by gophers for gophers. We also wanted to be able to use our platform to bring attention to things that deserve some attention.
 
 ## Subscribe
-In order to subscribe, please follow our Medium Collection: https://blog.golangbridge.org/
+In order to subscribe...
 
-## Ways to contribute
+1. Make sure you have a Medium account
+2. Follow us: https://blog.golangbridge.org/
 
-1. Please share this post! We always need more visibility. 
-2. 
+## How to Contribute
+Please read our more detailed [contributions guidelines]()
 
-Use this to share yours or others' projects, news, blog posts of interest, or feedback. Please see past newsletters to get an idea of what type of content is a good fit.
-
-- Getting in touch is as easy as [creating a new issue](https://github.com/gobridge/monthly-newsletter/issues/new).
-
-- Join us on the #gobridge channel on Gophers Slack (invite: https://gophersinvite.herokuapp.com)
-
-- Reach out to us on our mailing-list: https://groups.google.com/forum/#!forum/gobridge
-
-- Email us at support@golangbridge.org
+We also would appreciate you sharing this initiative on social media <3
 
 ## Past newsletters
+
+### 2016
+- Currently accepting submissions for November & December! 
+
 ### 2015
 - November: http://newsletter.golangbridge.org/t/ViewEmail/i/7B7A6F80BF33EF6A
