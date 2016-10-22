@@ -2,7 +2,7 @@
 
 ***What is it?*** 
 
-Go Pulse Newsletter is a monthly newsletter curated *with love* by the [GoBridge org](https://golangbridge.org/) and released at the top of each month. 
+Go Pulse Newsletter is a monthly newsletter curated with love by the [GoBridge org](https://golangbridge.org/) and released at the top of each month. 
 
 ***Another newsletter? Why should I read this?***
 
