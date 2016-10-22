@@ -25,4 +25,4 @@ We also would appreciate you sharing this initiative on social media <3
 - Currently accepting submissions for November & December! 
 
 ### 2015
-- November: http://newsletter.golangbridge.org/t/ViewEmail/i/7B7A6F80BF33EF6A
+- [November](http://newsletter.golangbridge.org/t/ViewEmail/i/7B7A6F80BF33EF6A)
