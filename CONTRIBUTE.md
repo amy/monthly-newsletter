@@ -10,7 +10,7 @@ The *types of content section* detailed below is merely meant to serve as a guid
 
 ## Types of Content
 
-***> Gopher Recognition:***
+#### ***> Gopher Recognition:***
 Is there someone from the Golang community that you think deserves recognition? We'd love to hear about their contributions and why you appreciate them.
 
 *Format: 1-2 paragraph description of gopher along with relevant social media handles (Github, Twitter, Medium, Blog, etc).*
@@ -20,32 +20,32 @@ Send us links to interesting Go events / meetups / conferences!
 
 *Format: Link to event, date + time, location, & short description.*
 
-***> Technical News:***
+#### ***> Technical News:***
 This section should be pretty self-explanatory. Send us cool technical blog posts or feature / product releases the Go community should know about!
 
 *Format: Link to news & short description.*
 
-***> Community Direction:***
+#### ***> Community Direction:***
 We believe that Go is much more than just a language, and that the community is a very integral aspect of being a Gopher. We would love content regarding the people aspect of the Golang community.
 
 *Format: Link to blog post & short description. We also accept 1-2 paragraph submissions of specific topics you would like to bring up regarding community direction.*
 
-***> Gopher Mic:***
+#### ***> Gopher Mic:***
 We would love to have YOU write about specific topics you're interested in directly in our newsletter. Maybe you have bite-sized tidbits to share about performance, testing, scalability, or go routines! Tell us about it.
 
 *Format: 2-3 paragraph submission of the topic you are interested in discussing.*
 
-***> Job Opportunites:***
+#### ***> Job Opportunites:***
 Are you trying to fill a position? We'd love to help you out. Give us more details on the role, level of hire & skills you're looking for, and location / whether you accept remote candidates. 
 
 *Format: Include all of the above details.*
 
-***> Guest Editor:***
+#### ***> Guest Editor:***
 We want this Go Pulse to distinctly have a voice behind each newsletter. When we have guest editors, the top of the newsletter will be an introduction of the editor as well as a paragraph of their thoughts of their choosing.
 
 *Format: 1 short paragraph introduction of yourself. 2 paragraph submission of a topic you think is interesting or advice you would like to share.*
 
-***> New Section Idea:***
+#### ***> New Section Idea:***
 If you have a new section idea, we'd love to hear about it & include it! Let us know about your idea & what you envisioned. 
 
 *Format: 1 paragraph overview of your section idea & potential types of content that it would include*
