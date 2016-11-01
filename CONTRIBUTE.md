@@ -68,7 +68,7 @@ You'll see your contribution in our Go Pulse newsletter on https://blog.golangbr
 ## Questions?
 - **Preferred:** Create a [new issue](https://github.com/gobridge/monthly-newsletter/issues/new) titled `Question`
 
-- Join us on the `#gobridge` channel on [Gophers Slack](https://gophersinvite.herokuapp.com)
+- Join us on the `#gobridge` channel on [Gophers Slack](https://invite.slack.golangbridge.org/)
 
 - Reach out to our [mailing-list](https://groups.google.com/forum/#!forum/gobridge)
 
