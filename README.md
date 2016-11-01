@@ -22,7 +22,7 @@ We also would appreciate you sharing this initiative on social media <3
 ## Past newsletters
 
 ### 2016
-- Currently accepting submissions for November & December! 
+- Currently accepting submissions for December & January!
 
 ### 2015
 - [November](http://newsletter.golangbridge.org/t/ViewEmail/i/7B7A6F80BF33EF6A)

@@ -1,7 +1,7 @@
 # Contribute!
 
 ***
-### ***Accepting November & December Submissions***
+### ***Accepting December & January Submissions***
 ***
 
 Thanks so much for wanting to contribute. We welcome content ideas that you think the Go Pulse Newsletter should include. This newsletter will be constantly evolving and growing, so please do make suggestions! 
@@ -30,12 +30,12 @@ We believe that Go is much more than just a language, and that the community is 
 
 *Format: Link to blog post & short description. We also accept 1-2 paragraph submissions of specific topics you would like to bring up regarding community direction.*
 
-***> Gopher Column:***
+***> Gopher Mic:***
 We would love to have YOU write about specific topics you're interested in directly in our newsletter. Maybe you have bite-sized tidbits to share about performance, testing, scalability, or go routines! Tell us about it.
 
 *Format: 2-3 paragraph submission of the topic you are interested in discussing.*
 
-***> Job Opportunity:***
+***> Job Opportunites:***
 Are you trying to fill a position? We'd love to help you out. Give us more details on the role, level of hire & skills you're looking for, and location / whether you accept remote candidates. 
 
 *Format: Include all of the above details.*
@@ -43,7 +43,12 @@ Are you trying to fill a position? We'd love to help you out. Give us more detai
 ***> Guest Editor:***
 We want this Go Pulse to distinctly have a voice behind each newsletter. When we have guest editors, the top of the newsletter will be an introduction of the editor as well as a paragraph of their thoughts of their choosing.
 
-*Format: 1 paragraph introduction of yourself. 2 paragraph submission of a topic you think is interesting or advice you would like to share.*
+*Format: 1 short paragraph introduction of yourself. 2 paragraph submission of a topic you think is interesting or advice you would like to share.*
+
+***> New Section Idea:***
+If you have a new section idea, we'd love to hear about it & include it! Let us know about your idea & what you envisioned. 
+
+*Format: 1 paragraph overview of your section idea & potential types of content that it would include*
 
 
 ## Contribution Workflow
@@ -61,7 +66,7 @@ You'll see your contribution in our Go Pulse newsletter on https://blog.golangbr
 
 
 ## Questions?
-- Create a [new issue](https://github.com/gobridge/monthly-newsletter/issues/new) titled `Question`
+- **Preferred:** Create a [new issue](https://github.com/gobridge/monthly-newsletter/issues/new) titled `Question`
 
 - Join us on the `#gobridge` channel on [Gophers Slack](https://gophersinvite.herokuapp.com)
 
